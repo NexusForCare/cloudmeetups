@@ -2,6 +2,10 @@
 
 This is for Azure-AWS-GCP group meetups
 
+[Group Meetup website](https://www.minervalink.com/cloudmeetups/)
+
+[Public Meetup website](https://www.minervalink.com/meetups/)
+
 Meetup Records
 
 |Index | Date | Topic | Speaker|Information|Type|
