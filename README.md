@@ -2,7 +2,7 @@
 
 This is for Azure-AWS-GCP group meetups
 
-[Group Meetup website](https://www.minervalink.com/cloudmeetups/)
+[Group Meetup website](https://www.minervalink.com/teammeetup/)
 
 [Public Meetup website](https://www.minervalink.com/meetups/)
 
