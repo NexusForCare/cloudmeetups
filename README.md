@@ -10,6 +10,7 @@ Meetup Records
 
 |Index | Date | Topic | Speaker|Information|Type|
 |--|--|--|--|--|--|
+|7|Oct 27, 2020|Azure Resource Manager Template& Infrastructure as Code|Ding||Group|
 |**P2**|Oct 22, 2020|The practical experience of machine learning and operations research in industry|Junzhi||Public Talk|
 |**6**|Oct 20, 2020|Seeking To Monetize A Website? - Learn & Grow|Eric||Group|
 |P1|Sep 30, 2020|Big Data, Big Dream|Bin||Public Talk|
